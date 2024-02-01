@@ -1,0 +1,14 @@
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\bin\Debug\net6.0\DAY28_ExamDatesTask.exe
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\bin\Debug\net6.0\DAY28_ExamDatesTask.deps.json
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\bin\Debug\net6.0\DAY28_ExamDatesTask.runtimeconfig.json
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\bin\Debug\net6.0\DAY28_ExamDatesTask.dll
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\bin\Debug\net6.0\DAY28_ExamDatesTask.pdb
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\obj\Debug\net6.0\DAY28_ExamDatesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\obj\Debug\net6.0\DAY28_ExamDatesTask.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\obj\Debug\net6.0\DAY28_ExamDatesTask.AssemblyInfo.cs
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\obj\Debug\net6.0\DAY28_ExamDatesTask.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\obj\Debug\net6.0\DAY28_ExamDatesTask.dll
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\obj\Debug\net6.0\refint\DAY28_ExamDatesTask.dll
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\obj\Debug\net6.0\DAY28_ExamDatesTask.pdb
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\obj\Debug\net6.0\DAY28_ExamDatesTask.genruntimeconfig.cache
+C:\Users\Comp\source\repos\DAY28_ExamDatesTask\DAY28_ExamDatesTask\obj\Debug\net6.0\ref\DAY28_ExamDatesTask.dll
